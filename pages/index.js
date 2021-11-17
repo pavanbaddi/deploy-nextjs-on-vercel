@@ -9,7 +9,7 @@ export default function Index() {
   return (
     <div>
       <div>
-        <h3>Next JS Counter App</h3>
+        <h3>Next JS Counter App updated</h3>
       </div>
 
       <button type="button" onClick={ () => setCount(count-1) } >Decrement</button>     
